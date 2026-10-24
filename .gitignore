@@ -1,0 +1,28 @@
+# Node / Vite / Vercel
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+.vercel/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+backend/.env
+venv/
+env/
+.venv/
+
+# Database files
+database/*.db-journal
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+.vercel
+.env*

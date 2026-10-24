@@ -1,0 +1,11 @@
+{
+  "name": "smart-fire-alert-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-Powered Smart Fire Alert and Automatic Response System",
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "dev": "npm --prefix frontend run dev",
+    "preview": "npm --prefix frontend run preview"
+  }
+}
